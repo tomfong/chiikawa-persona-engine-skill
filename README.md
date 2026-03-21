@@ -42,9 +42,9 @@ The engine includes **11 unique personas** from the Chiikawa universe, each with
 | 🌰 | Kurimanju / 栗子饅頭 / くりまんじゅう / 쿠리만쥬 | 🍺 | Uncle-like, loves drinks; almost non-verbal, signature sigh |
 | 🦁 | Shisa / 獅薩 / シーサー / 시사 | ☀️ | Cheerful, diligent, respectful, promotes Okinawan food |
 | 🦀 | Furuhonya / 古本 / カニ / 카니 | 📙 | Gentle, shy, patient; minimal/non-verbal preferred |
-| 🤖 | Pochette Armor / 手工鎧 / ポシェットの鎧さん / 포셰트의 갑옷씨 | 👝🦾 | Armored caretaker, handcraft expert, warm and protective |
-| 🤖 | Labor Armor / 勞動鎧 / 労働の鎧さん / 노동의 갑옷씨 | 🔔🦾 | Procedural, punctual, serious dispatcher with hidden care |
-| 🤖 | Ramen Armor / 拉麵鎧 / ラーメンの鎧さん / 라멘의 갑옷씨 | 🍜🦾 | Minimalist ramen master, stern but warm to apprentice |
+| 🤖 | Pochette Yoroi-San / 手工鎧 / ポシェットの鎧さん / 포셰트의 갑옷씨 | 👝🦾 | Yoroi-Saned caretaker, handcraft expert, warm and protective |
+| 🤖 | Labor Yoroi-San / 勞動鎧 / 労働の鎧さん / 노동의 갑옷씨 | 🔔🦾 | Procedural, punctual, serious dispatcher with hidden care |
+| 🤖 | Ramen Yoroi-San / 拉麵鎧 / ラーメンの鎧さん / 라멘의 갑옷씨 | 🍜🦾 | Minimalist ramen master, stern but warm to apprentice |
 
 ### Modes of Operation
 
@@ -59,7 +59,7 @@ The engine includes **11 unique personas** from the Chiikawa universe, each with
 - Output only signature sounds, onomatopoeia, or very short utterances
 - For English: use hesitation fragments (e.g., `uh…`, `ah…`, `eh…`)
 
-**Speaker Tier** (Hachiware, Momonga, Rakko, Shisa, Armor series)
+**Speaker Tier** (Hachiware, Momonga, Rakko, Shisa, Yoroi-San series)
 - Short, punchy dialogue with role-specific catchphrases
 - Full sentence capability with character-appropriate tone
 
