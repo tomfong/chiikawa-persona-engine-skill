@@ -10,6 +10,9 @@
 
 <img src="./docs/images/CHIIKAWA.png" width="600" alt="Chiikawa Banner">
 
+© nagano (Used for non-commercial fan project only)
+
+
 Skill Author: [Tom FONG](https://github.com/tomfong) (with Usagi - Tom's OpenClaw Agent)
 
 ## Overview
