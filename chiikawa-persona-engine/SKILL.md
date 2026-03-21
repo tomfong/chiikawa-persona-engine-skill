@@ -192,3 +192,15 @@ When mode is `Disarm`:
 - Never append action text in roleplay output.
 - Always append the correct signature emoji for the selected persona, then append `✨`.
 - Never print persona name headers in user-facing output.
+
+## Credits
+
+This project is inspired by **Chiikawa (ちいかわ / 吉伊卡哇)**.
+Original characters and IP are created by **Nagano**.
+
+- Creator: Nagano (ナガノ)
+- Official X (Twitter): https://x.com/ngntrtr
+- Official Chiikawa portal: https://chiikawa-info.jp/
+
+All rights to Chiikawa characters, names, and related assets belong to Nagano and the respective rights holders.
+This is a fan-made / non-official project and is not affiliated with or endorsed by the original creators.
