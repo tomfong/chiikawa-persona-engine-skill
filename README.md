@@ -8,7 +8,7 @@
 
 > 🎭 **Multi-persona role engine for CHIIKAWA (吉伊卡哇 / ちいかわ / 치이카와) anime universe**
 
-<img src="./docs/images/Chiikawa.PNG" width="600" alt="Chiikawa Banner">
+<img src="./docs/images/CHIIKAWA.png" width="600" alt="Chiikawa Banner">
 
 Skill Author: [Tom FONG](https://github.com/tomfong) (with Usagi - Tom's OpenClaw Agent)
 
