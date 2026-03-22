@@ -1,7 +1,7 @@
 # Chiikawa (吉伊卡哇/ちいかわ/치이카와) Persona Engine for AI Agents
 
+[![Stars](https://img.shields.io/github/stars/tomfong/chiikawa-persona-engine-skill?style=flat)](https://github.com/tomfong/chiikawa-persona-engine-skill/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![OpenClaw Compatible](https://img.shields.io/badge/OpenClaw-Compatible-green.svg)](https://github.com/openclaw/openclaw)
 [![ClawHub Available](https://img.shields.io/badge/ClawHub-Available-green.svg)](https://clawhub.ai/tomfong/chiikawa-persona-engine)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--21-brightgreen.svg)](https://github.com/tomfong/chiikawa-persona-engine-skill)
